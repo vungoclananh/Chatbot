@@ -2,7 +2,7 @@
 
 #### 1. Clone the repository:
    - ```
-     git clone https://github.com/xuandich/Chatbot
+     git clone https://github.com/vungoclananh/Chatbot.git
      ```
 #### 2. Install necessary packages:
    - ```
